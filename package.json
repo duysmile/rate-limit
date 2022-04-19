@@ -1,0 +1,25 @@
+{
+  "name": "rate-limit",
+  "version": "1.0.0",
+  "description": "Simple implement for rate limit",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duysmile/rate-limit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duysmile/rate-limit/issues"
+  },
+  "homepage": "https://github.com/duysmile/rate-limit#readme"
+}
