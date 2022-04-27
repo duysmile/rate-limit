@@ -4,7 +4,9 @@
   "description": "Simple implement for rate limit",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "mongodb": "^4.5.0",
+    "redis": "^4.0.6"
   },
   "devDependencies": {},
   "scripts": {
